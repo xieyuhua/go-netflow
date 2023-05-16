@@ -7,5 +7,4 @@
 netflow
 netflow.exe
 go-netflow.exe
-go-netflow
 *.cpu
